@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "solarium",
   description: "Self-contained works across any medium.",
+  base: "/solarium/",
   themeConfig: {
     nav: [{ text: "para-garden", link: "https://github.com/para-garden" }],
     sidebar: [],

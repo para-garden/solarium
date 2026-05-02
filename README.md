@@ -10,4 +10,4 @@ Medium varies per piece: text, interactive, visual, audio — whatever serves it
 
 ## Site
 
-Hosted at [solarium.para.garden](https://solarium.para.garden) (coming soon).
+Hosted at [para.garden/solarium/](https://para.garden/solarium/) (coming soon).
